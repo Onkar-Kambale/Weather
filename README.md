@@ -27,3 +27,5 @@ Click the "Get Weather 🌏" button.
 View the weather details displayed below the input box.
 
 ## Screenshots 📸
+![LandingPage Preview](Delhi.png)
+![LandingPage Preview](Mumbai.png)
